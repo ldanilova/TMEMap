@@ -1,0 +1,11 @@
+**/cache/**
+.Rdata
+.Rhistory
+*.rda
+*.Rda
+*.Rdata
+*~
+*.swp
+.*
+*.vim
+*.Rproj
